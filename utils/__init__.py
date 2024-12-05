@@ -1,4 +1,4 @@
 from .replay import ReplayBuffer
-from .scheduler import HyperParameterScheduler
+from .scheduler import HyperparameterScheduler
 
-__all__ = ['ReplayBuffer', 'HyperParameterScheduler']
+__all__ = ['ReplayBuffer', 'HyperparameterScheduler']

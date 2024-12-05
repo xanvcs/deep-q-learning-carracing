@@ -1,3 +1,3 @@
-from .dqn_agent import DQNAgent
+from .dqn_agent import Agent
 
-__all__ = ['DQNAgent']
+__all__ = ['Agent']
